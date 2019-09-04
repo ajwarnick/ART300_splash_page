@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Eczar:400,800&display=swap');
+
+body, html{
+    background-color: rgb(175,0,0);
+
+    font-family: 'Eczar', serif;
+
+    height: 100%;
+    display: grid;
+}
+
+.main{
+    margin: auto;
+    height:50vh;
+    width:50vw;
+
+    background-image: url("/img/IMG_2280.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    color: rgb(255, 255, 255);
+    font-size:5em;
+    text-align: center;
+}
+
+
+
+/*
+
+
+
+
+
+
+
+
+
+
+
+body, html {
+    height: 100%;
+    display: grid;
+    
+    background-color: lightpink;
+
+    font-family: 'Yatra One', cursive;
+}
+
+div.main {
+    margin: auto;
+    height:50vh;
+    width:50vw;
+
+    background-image: url("/img/neonbrand-IF8B82QBCkM-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span.name{
+    color: rgb(54, 0, 0);
+    font-size:3em;
+    text-align: center;
+}
+
+*/
